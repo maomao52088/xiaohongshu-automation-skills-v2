@@ -102,8 +102,7 @@ For other AI tools, copy the prompt content into Claude / Gemini / ChatGPT.
 
 ## 定价 · Price
 
-9.9 元。
-9.9 RMB.
+¥9.9 / $2
 
 ---
 
