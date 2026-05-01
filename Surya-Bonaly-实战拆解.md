@@ -1,8 +1,8 @@
 # Surya Bonaly 实战拆解 — CTR 22.6% 全流程复现
 # Surya Bonaly Case Study: How We Hit 22.6% CTR
 
-> 账号「路标笔记」最高CTR笔记，完整复现选题→封面→文案→发布→复盘。
-> Highest-CTR post from "路标笔记" (Signpost Notes). Full replay: topic → cover → copy → publish → review.
+> 实测爆款笔记，完整复现选题→封面→文案→发布→复盘。数据真实，账号匿名。
+> A real viral post, full breakdown. Real data, account anonymized. Full replay: topic → cover → copy → publish → review.
 
 ---
 
@@ -180,5 +180,5 @@ CTR > 20%
 
 ---
 
-大龙猫 · 路标笔记 · 实测数据
-Dalongmao · 路标笔记 · Real data, real results
+大龙猫 · 实测数据
+Dalongmao · Real data, real results
